@@ -1,7 +1,9 @@
-# DSH 管家 · DSH Butler
+# DSH 启动器 · DSH Butler
 
-给 **DeepSeek Harness (DSH)** 本地 Web 服务用的图形化开关面板 —— 双击图标就能启动 / 停止 / 重启服务，
+给 **DeepSeek Harness (DSH)** 本地 Web 服务用的图形化启动器 —— 双击图标就能启动 / 停止 / 重启服务，
 不用每次都回到命令行敲 `dsh web`。
+
+> 窗口标题栏上显示的是「DSH 管家」，那是程序内部的叫法，跟这里是同一个东西。
 
 当前版本 **v3.0** · Windows 10 / 11 · 系统自带 PowerShell 5.1 · **零第三方依赖**（不装 Node 包、不装运行库）
 

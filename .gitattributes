@@ -1,0 +1,10 @@
+# 统一行尾，免得 Windows / Mac 上 checkout 出差异
+* text=auto eol=lf
+
+# 说明书保持 CRLF（记事本友好）
+*.txt text eol=crlf
+
+# 二进制文件别当文本处理
+*.png binary
+*.ico binary
+*.exe binary

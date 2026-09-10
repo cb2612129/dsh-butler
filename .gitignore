@@ -1,0 +1,16 @@
+# 运行时产物（正常情况下不会出现在仓库里，防手滑）
+*.log
+*.bak
+*.tmp
+settings.json
+
+# Windows 杂物
+Thumbs.db
+desktop.ini
+ehthumbs.db
+
+# 编辑器 / IDE
+.vscode/
+.idea/
+*.swp
+*~
